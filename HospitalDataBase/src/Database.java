@@ -7,9 +7,9 @@ import java.util.Scanner;
 
 
 public class Database implements DataBaseFunctions {
-    private final String url = "jdbc:postgresql://localhost:5432/postgres";
-    private final String user = "postgres";
-    private final String password = "1234";
+    private final String url = "***********************";
+    private final String user = "**********";
+    private final String password = "*****";
     private Connection connection = null;
     private Statement statement = null;
 
